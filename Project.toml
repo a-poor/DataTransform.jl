@@ -1,0 +1,4 @@
+name = "DataTransform"
+uuid = "f45ecd87-d37e-445b-b49f-c05404b751be"
+authors = ["Austin Poor <45295232+a-poor@users.noreply.github.com>"]
+version = "0.1.0"
