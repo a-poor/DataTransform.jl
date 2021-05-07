@@ -2,7 +2,7 @@
 
 _created by Austin Poor_
 
-___Under Construction__
+__Under Construction__
 
 This library is intended to help develop a standardized data-transformation schema for tabular data.
 
