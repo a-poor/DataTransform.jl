@@ -2,3 +2,9 @@ name = "DataTransform"
 uuid = "f45ecd87-d37e-445b-b49f-c05404b751be"
 authors = ["Austin Poor <45295232+a-poor@users.noreply.github.com>"]
 version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+FeatureEng = "1da23141-447d-474e-a064-8dd6bac2aab2"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"

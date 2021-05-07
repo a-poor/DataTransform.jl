@@ -1,0 +1,17 @@
+{
+  "version": "0.1",
+  "transforms": [
+    {
+      "operation": "select-column",
+      "names": ["col1","col2","col3"]
+    },
+    {
+      "operation": "select-column",
+      "starts-with": ["col"]
+    },
+    {
+      "operation": "select-column",
+      "": ["col"]
+    }
+  ]
+}
